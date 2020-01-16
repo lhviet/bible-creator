@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="bible-creator">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="bible-creator.jar">
+      <element id="module-output" name="java-bible-creator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-lang3-3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/httpcomponents-client-4.5.1/lib/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/httpcomponents-client-4.5.1/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/httpcomponents-client-4.5.1/lib/fluent-hc-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/httpcomponents-client-4.5.1/lib/httpclient-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/httpcomponents-client-4.5.1/lib/httpclient-cache-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/httpcomponents-client-4.5.1/lib/httpclient-win-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/httpcomponents-client-4.5.1/lib/httpcore-4.4.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/httpcomponents-client-4.5.1/lib/httpmime-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/httpcomponents-client-4.5.1/lib/jna-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/httpcomponents-client-4.5.1/lib/jna-platform-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/sqlite4java-392/sqlite4java.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
